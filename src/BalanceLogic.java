@@ -38,6 +38,7 @@ public class BalanceLogic {
             this.balance -= amountscoatere;
             System.out.println("Suma " + amountscoatere + " a fost cu succes extrasa");
             System.out.println("Fonduri pe cont dupa extragere " + this.balance);
+            //ceva
         }
     }
 
